@@ -1,0 +1,17 @@
+{
+    "101": {
+        "name": "Alice",
+        "age": 20,
+        "course": "Python"
+    },
+    "102": {
+        "name": "Bob",
+        "age": 23,
+        "course": "Data Science"
+    },
+    "104": {
+        "name": "David",
+        "age": 19,
+        "course": "ML"
+    }
+}
